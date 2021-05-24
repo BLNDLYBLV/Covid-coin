@@ -1,0 +1,3 @@
+[submodule "Covid-hack"]
+	path = Covid-hack
+	url = https://github.com/BLNDLYBLV/Covid-hack
