@@ -2,3 +2,9 @@
 [submodule "Flask_app_Geodata-analysis"]
 	path = Flask_app_Geodata-analysis
 	url = https://github.com/abishekarjun98/Flask_app_Geodata-analysis
+[submodule "Covid-hack"]
+	path = Covid-hack
+	url = https://github.com/BLNDLYBLV/Covid-hack
+[submodule "eyantra-server"]
+	path = eyantra-server
+	url = https://github.com/subramaniyam73/eyantra-server
